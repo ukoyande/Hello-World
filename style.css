@@ -1,0 +1,43 @@
+,
+body, div, h1, h2, h3, h4, h5, h6, p, ul, img {margin:0px; padding:0px; }
+
+body { font-family: Arial, Helvetica, sans-serif; }
+
+.container {
+    width: 800px;
+    margin: 0 auto; 
+}
+
+#main .container {
+    background: url(images/header_slice.jpg) no-repeat; 
+}
+
+ul#menu {
+    list-style: none;
+    padding-top: 130px;
+    padding-bottom: 50px
+}
+
+ 
+ul#menu li a {
+    font-size: 25px;
+    color: #e4dfdf;
+    text-decoration: underline; 
+}
+
+ul#menu li {
+    float: left;    
+    padding-right: 105px;
+    width: 70px;
+}
+
+
+#footer {
+    background: url(images/footer_slice.jpg);
+    padding-top: 20px;
+    padding-bottom:60px;
+    margin-top: 40px;
+    color: #fff; 
+
+}
+
