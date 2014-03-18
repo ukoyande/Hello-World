@@ -20,24 +20,27 @@ ul#menu {
 
  
 ul#menu li a {
-    font-size: 25px;
-    color: #e4dfdf;
+    font-size: 20px;
+    color: #e4ddf;
     text-decoration: underline; 
 }
 
 ul#menu li {
     float: left;    
-    padding-right: 105px;
-    width: 70px;
+    padding-right: 90px;
+    width: 50px;
 }
 
 
 #footer {
     background: url(images/footer_slice.jpg);
-    padding-top: 20px;
-    padding-bottom:60px;
-    margin-top: 40px;
-    color: #fff; 
+    width: 800px;
+    height: 20px;
+    padding-top: 0px;
+    padding-bottom:20px;
+    margin-top: 300px;
+    margin-left: 270px;
+    color: #ggg; 
 
 }
 
